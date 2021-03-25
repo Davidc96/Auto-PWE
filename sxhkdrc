@@ -141,3 +141,7 @@ alt + super + {Left,Down,Up,Right}
 
 super + shift + g
 	google-chrome
+	
+# Burpsuite
+super + shift + b
+	burpsuite
